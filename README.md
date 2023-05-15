@@ -11,3 +11,7 @@ https://www.w3schools.com/python/ref_dictionary_items.asp
 https://www.w3schools.com/python/ref_dictionary_get.asp
 
 https://www.w3schools.com/python/ref_dictionary_keys.asp
+
+https://www.tutorialspoint.com/python/os_chdir.htm
+
+https://docs.python.org/3/library/os.path.html
